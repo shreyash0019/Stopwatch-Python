@@ -20,7 +20,7 @@ This is a simple stopwatch application built using Python and Tkinter. The stopw
 ```bash
   python stopwatch.py
 ```
-##Usage
+## Usage 
 
 Click the Start button to begin the stopwatch.
 Click the Stop button to stop the timer.
