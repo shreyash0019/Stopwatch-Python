@@ -21,11 +21,13 @@ This is a simple stopwatch application built using Python and Tkinter. The stopw
   python stopwatch.py
 ```
 ##Usage
+
 Click the Start button to begin the stopwatch.
 Click the Stop button to stop the timer.
 Click Reset to reset the timer to 00:00:00.
 
-##License
+## Licence 
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
