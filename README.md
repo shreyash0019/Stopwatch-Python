@@ -26,9 +26,6 @@ Click the Start button to begin the stopwatch.
 Click the Stop button to stop the timer.
 Click Reset to reset the timer to 00:00:00.
 
-## Licence 
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 
